@@ -9,3 +9,5 @@ Olá meu nome é Michel Henrique, sou desenvolvedor web, trabalho na KBank, uma 
 - React e React Native
 - Angular
 - Ionic
+- Aprendendo Futter
+- Aprendendo UI/UX com Figma
