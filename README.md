@@ -20,5 +20,5 @@ Olá meu nome é Michel Henrique, sou desenvolvedor web, trabalho na KBank, uma 
 - 
 
 # Contacts
-- [Linkedin] 
-[1]: https://linkeding.com
+- [Linkedin](https://linkedin.com/in/michelhenriquesilva)
+- [Instagram](https://instagram.com/henrique.michel)
