@@ -17,8 +17,8 @@ Olá meu nome é Michel Henrique, sou desenvolvedor web, trabalho na KBank, uma 
 
 ## Languages and tools
 - Aprendendo UI/UX com Figma
-- 
 
 # Contacts
 - [Linkedin](https://linkedin.com/in/michelhenriquesilva)
 - [Instagram](https://instagram.com/henrique.michel)
+- [E-mail](mailto:michelhenrsilva@gmail.com)
