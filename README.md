@@ -17,9 +17,7 @@ Olá meu nome é Michel Henrique, sou desenvolvedor web, trabalho na KBank, uma 
 
 ## Tools
 - UI/UX com Figma
-- VS Code
-- DBeaver
-- MySQL Workbanch
+- Ant Design ![alt Ant Design](https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg)
 
 # Contacts
 - [Linkedin](https://linkedin.com/in/michelhenriquesilva)
