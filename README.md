@@ -15,8 +15,11 @@ Olá meu nome é Michel Henrique, sou desenvolvedor web, trabalho na KBank, uma 
 - Ionic
 - Aprendendo Futter
 
-## Languages and tools
-- Aprendendo UI/UX com Figma
+## Tools
+- UI/UX com Figma
+- VS Code
+- DBeaver
+- MySQL Workbanch
 
 # Contacts
 - [Linkedin](https://linkedin.com/in/michelhenriquesilva)
