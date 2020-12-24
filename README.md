@@ -15,7 +15,7 @@ Olá meu nome é Michel Henrique, sou desenvolvedor web, trabalho atualmente na 
 - Ionic
 - Aprendendo Futter
 
-## Tools
+## Tools and frameworks ❤
 - UI/UX com Figma
 - [Ant Design](https://ant.design/)
 - [NgZorro](https://ng.ant.design/docs/introduce/en)
