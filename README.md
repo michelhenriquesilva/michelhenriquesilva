@@ -17,7 +17,8 @@ Olá meu nome é Michel Henrique, sou desenvolvedor web, trabalho na KBank, uma 
 
 ## Tools
 - UI/UX com Figma
-- Ant Design ![alt Ant Design](https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg)
+- [Ant Design](https://ant.design/)
+- [NgZorro](https://ng.ant.design/docs/introduce/en)
 
 # Contacts
 - [Linkedin](https://linkedin.com/in/michelhenriquesilva)
