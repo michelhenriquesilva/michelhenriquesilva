@@ -5,9 +5,9 @@ Olá meu nome é Michel Henrique, sou desenvolvedor web, trabalho na KBank, uma 
 
 # Technologies
 ## Back End
-- Laravel
-- PostgreSQL
-- AdonisJS
+- PHP com Laravel
+- Node com AdonisJS
+- Node com Express
 
 ## Front End
 - React e React Native
