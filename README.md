@@ -19,6 +19,7 @@ Olá meu nome é Michel Henrique, sou desenvolvedor web, trabalho atualmente na 
 - UI/UX com Figma
 - [Ant Design](https://ant.design/)
 - [NgZorro](https://ng.ant.design/docs/introduce/en)
+- [Laravel](https://laravel.com)
 
 # Contacts
 - [Linkedin](https://linkedin.com/in/michelhenriquesilva)
