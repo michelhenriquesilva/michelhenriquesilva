@@ -1,7 +1,7 @@
 # [Michel Henrique da Silva](https://www.linkedin.com/in/michelhenriquesilva/)
 
 ## About me
-E aí dev! Sou desenvolvedor full stack, trabalho atualmente como coordenador de software. Sou apaixonado por tecnologia e ultimamente estou trabalhando muito com a stack: React + React Native + Node.js. E pra #neverstoplearning comecei o [#100DaysOfFlutter](https://github.com/michelhenriquesilva/100-days-of-flutter)
+Hello World! Sou desenvolvedor full stack, trabalho atualmente como coordenador de software. Sou apaixonado por tecnologia e ultimamente estou trabalhando muito com a stack: React + React Native + Node.js. E pra #neverstoplearning comecei o [#100DaysOfFlutter](https://github.com/michelhenriquesilva/100-days-of-flutter)
 
 ## Technologies
 ### Back End
