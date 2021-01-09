@@ -5,12 +5,12 @@ Olá meu nome é Michel Henrique, sou desenvolvedor web, trabalho atualmente com
 
 # Technologies
 ## Back End
-- PHP com Laravel
-- Node com AdonisJS
-- Node com Express
+- Laravel
+- AdonisJS
+- Express
 
 ## Front End
-- React e React Native
+- ReactJs/React Native
 - Angular
 - Ionic
 - Aprendendo Futter
