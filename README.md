@@ -1,7 +1,7 @@
 # Michel Henrique da Silva
 
 # About me
-Olá meu nome é Michel Henrique, sou desenvolvedor web, trabalho atualmente na KBank, uma empresa administradora de cartões de crédito private label. Lá além de criar produtos inovadores com PHP/Laravel, Angular e React, também sou coordenador de um time muito foooda.
+Olá meu nome é Michel Henrique, sou desenvolvedor web, trabalho atualmente como coordenador de software. Sou apaixonado por tecnologia e ultimamente bem focado na stack node.js
 
 # Technologies
 ## Back End
