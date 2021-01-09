@@ -1,16 +1,16 @@
 # [Michel Henrique da Silva](https://www.linkedin.com/in/michelhenriquesilva/)
 
-# About me
+## About me
 Olá meu nome é Michel Henrique, sou desenvolvedor full stack, trabalho atualmente como coordenador de software. Sou apaixonado por tecnologia e ultimamente estou trabalhando muito com a stack: React + React Native + Node.js. E pra #neverstoplearning comecei o [#100DaysOfFlutter](https://github.com/michelhenriquesilva/100-days-of-flutter)
 
-# Technologies
-## Back End
+## Technologies
+### Back End
 - Laravel
 - AdonisJS
 - Express
 - PostGres/MySQL
 
-## Front End
+### Front End
 - ReactJs/React Native
 - Angular
 - Ionic
@@ -22,7 +22,7 @@ Olá meu nome é Michel Henrique, sou desenvolvedor full stack, trabalho atualme
 - [NgZorro](https://ng.ant.design/docs/introduce/en)
 - [Laravel](https://laravel.com)
 
-# Contacts
+## Contacts
 - [Linkedin](https://linkedin.com/in/michelhenriquesilva)
 - [Instagram](https://instagram.com/henrique.michel)
 - [E-mail](mailto:michelhenrsilva@gmail.com)
