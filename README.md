@@ -1,7 +1,7 @@
 # Michel Henrique da Silva
 
 # About me
-Olá meu nome é Michel Henrique, sou desenvolvedor web, trabalho atualmente como coordenador de software. Sou apaixonado por tecnologia e ultimamente estou trabalhando muito com a stack: React + React Native + Node.js. E pra #neverstoplearning comecei o #100DaysOfFlutter(https://github.com/michelhenriquesilva/100-days-of-flutter)
+Olá meu nome é Michel Henrique, sou desenvolvedor web, trabalho atualmente como coordenador de software. Sou apaixonado por tecnologia e ultimamente estou trabalhando muito com a stack: React + React Native + Node.js. E pra #neverstoplearning comecei o [#100DaysOfFlutter](https://github.com/michelhenriquesilva/100-days-of-flutter)
 
 # Technologies
 ## Back End
