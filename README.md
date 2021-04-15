@@ -1,26 +1,32 @@
 # [Michel Henrique da Silva](https://www.linkedin.com/in/michelhenriquesilva/)
 
 ## About me
-Hello World! Sou desenvolvedor full stack, trabalho atualmente como coordenador de software. Sou apaixonado por tecnologia e ultimamente estou trabalhando muito com a stack: React + React Native + Node.js. E pra #neverstoplearning comecei o [#100DaysOfFlutter](https://github.com/michelhenriquesilva/100-days-of-flutter)
+Hello World! Sou desenvolvedor full stack, trabalho atualmente como coordenador de software. Sou apaixonado por tecnologia e ultimamente estou trabalhando muito com a stack: ReactJs + React Native + Node.js.
 
 ## Technologies
 ### Back End
-- Laravel
-- AdonisJS
-- Express
-- PostGres/MySQL
+- PHP
+- GoLang
+
+### Database
+- PostgresSQL
+- MySQL
+- MongoDB
 
 ### Front End
 - ReactJs/React Native
 - Angular
 - Ionic
-- Aprendendo Futter
+- Futter
+- Cordova
 
 ## Tools and frameworks ❤
 - UI/UX com Figma
 - [Ant Design](https://ant.design/)
 - [NgZorro](https://ng.ant.design/docs/introduce/en)
 - [Laravel](https://laravel.com)
+- Adonis
+- Express
 
 ## Contacts
 - [Linkedin](https://linkedin.com/in/michelhenriquesilva)
